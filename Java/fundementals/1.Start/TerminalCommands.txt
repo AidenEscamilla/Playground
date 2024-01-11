@@ -1,0 +1,27 @@
+#0: Command line
+
+Terminal commands i'll teach you about real quick
+This is your cheat-sheet because even it's hard to remember at first
+
+Command - What it stands for: Aiden's silly explination (This line is your key :P)
+
+
+pwd - print working directory: This shows you "where" you are. Like a "You are here" on a map!
+
+
+ls - list: Shows all the files in in the current folder
+
+
+cd - change directory: "Directory" means folder. So cd lets you "change folder" and move around the system!
+
+
+clear - cler screen: This is like refreshing your screen. It cleans off all the old code. It's my personal life saver
+
+
+javac - java compile: Before you can run your code, it has to compile (i'll explain in person). 
+
+
+java "ClassFile" - run java code: This will run your code! Ahhhhh it's working yaaay! 
+                                  Run this after you compile. Make sure you don't add the ".java" just the Class name!
+
+
